@@ -1,0 +1,7 @@
+Everyone complete your assignments of week-2 and save the code file on name of yours and raise pull request after solving the assignments .
+
+the file name must be in your name 
+
+you can solve all the questions in a single file or a folder containing all the solutions - incase of folder name the folder on your name and name the file on the questions 
+
+do not use chatgpt or any other ai to solve your problem - it is very easy to track ai solved problems and detect ai generated code 
